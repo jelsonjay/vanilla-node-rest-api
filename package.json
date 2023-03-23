@@ -1,0 +1,23 @@
+{
+  "name": "jelson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "jelson",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "uuidv5": "^1.0.0"
+  }
+}
